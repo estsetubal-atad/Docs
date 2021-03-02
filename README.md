@@ -10,6 +10,8 @@ This repository contains documentation (tutorials and description of use) for th
 
 - `Doxygen.pdf` -- Documenting your code with *doxygen*.
 
+- `Valgrind.pdf` -- Using *valgrind* and how to deal with common reported errors.
+
 - `Git.pdf` -- Using *GitHub* through the *command line*.
 
 ---

@@ -1,5 +1,10 @@
 # ATAD | Docs
 
+> **Note**
+>
+> The tutorials often include ***hyperlinks***. These **only work if you download** the PDF, not in *preview* mode.
+>
+
 This repository contains documentation (tutorials and description of use) for the course tools.
 
 - `Software.pdf` -- Installing programming environment.

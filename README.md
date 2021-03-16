@@ -7,17 +7,17 @@
 
 This repository contains documentation (tutorials and description of use) for the course tools.
 
-- `Software.pdf` -- Installing programming environment.
+- [Software.pdf](Software.pdf) -- Installing programming environment.
 
-- `Makefiles` -- Understanding *makefiles*.
+- [Makefiles](Makefiles.pdf) -- Understanding *makefiles*.
 
-- `Debug.pdf` -- Performing *debug* integrated in VS Code.
+- [Debug.pdf](Debug.pdf) -- Performing *debug* integrated in VS Code.
 
-- `Doxygen.pdf` -- Documenting your code with *doxygen*.
+- [Doxygen.pdf](Doxygen.pdf) -- Documenting your code with *doxygen*.
 
-- `Valgrind.pdf` -- Using *valgrind* and how to deal with common reported errors.
+- [Valgrind.pdf](Valgrind.pdf) -- Using *valgrind* and how to deal with common reported errors.
 
-- `Git.pdf` -- Using *GitHub* through the *command line*.
+- [Git.pdf](Git.pdf) -- Using *GitHub* through the *command line*.
 
 ---
 

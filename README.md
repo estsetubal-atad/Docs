@@ -13,7 +13,7 @@ This repository contains documentation (tutorials and description of use) for th
 
   - [Software_AlternativeMethods.pdf](Software_AlternativeMethods.pdf) -- Obtaining the programming environment through alternative methods.
 
-    - :warning: If you're a Mac user on *Apple Silicon*, i.e., M1 or M2 chips, you should consider using the **Docker container** method; otherwise, you'll be left without the complete toolchain.
+    - :warning: If you're a Mac user on *Apple Silicon*, i.e., M1 or M2 chips, you must consider using the **Docker container** method; otherwise, you'll be left without the complete toolchain.
 
 - [Makefiles](Makefiles.pdf) -- Understanding *makefiles*.
 

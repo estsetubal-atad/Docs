@@ -11,15 +11,15 @@ This repository contains documentation (tutorials and description of use) for th
 
 - [Software.pdf](Software.pdf) -- Installing programming environment.
 
-  - [Software_AlternativeMethods.pdf](Software_AlternativeMethods.pdf) -- Obtaining the programming environment through alternative methods.
+  - [SoftwareAlternative.pdf](SoftwareAlternative.pdf) -- Obtaining the programming environment through alternative methods.
 
-    - :warning: If you're a Mac user on *Apple Silicon*, i.e., M1 or M2 chips, you must consider using the **Docker container** method; otherwise, you'll be left without the complete toolchain.
+- [Development Environment](Environment.pdf) -- Knowing your way around cloning repos, coding, compiling and executing programs.
 
   - :tv: You can check the **YouTube** page with some tutorial videos, namely how to use the *GitHub* repositories with the above software: [ATAD's YouTube Channel](https://www.youtube.com/channel/UCm7ymdQlDgonaj7dVw0tfSw)
+  
+- [Debug.pdf](Debug.pdf) -- Performing *debugging* of programs.
 
 - [Makefiles](Makefiles.pdf) -- Understanding *makefiles*.
-
-- [Debug.pdf](Debug.pdf) -- Performing *debug* integrated in VS Code.
 
 - [Doxygen.pdf](Doxygen.pdf) -- Documenting your code with *doxygen*.
 
@@ -30,4 +30,3 @@ This repository contains documentation (tutorials and description of use) for th
 ---
 
 Whenever possible, use the *C program template* project (available [here](https://github.com/estsetubal-atad/CProgram_Template)) for your programs. Class assignment repositories are already created from this source.
-

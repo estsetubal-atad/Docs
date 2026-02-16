@@ -2,11 +2,11 @@
 
 Este repositório contém documentação (tutoriais e descrição de utilização) das ferramentas da unidade curricular.
 
-* [Software](Software.md) -- Instalação do ambiente de programação.
+* [Software](Software.md) -- Instalação do software necessário e ambiente de desenvolvimento.
 
-  * [Software Alternatives](SoftwareAlternatives.md) -- Obtenção do ambiente de programação por métodos alternativos.
+  * [Software Alternatives](SoftwareAlternatives.md) -- Instalação do software necessário e ambiente de desenvolvimento por métodos alternativos.
 
-* [Development Environment](Environment.md) -- Familiarização com clonagem de repositórios, programação, compilação e execução de programas.
+* [Development Environment](Environment.md) -- Familiarização com ambiente de desenvolvimento: clonagem de repositórios, programação, compilação e execução de programas.
 
   * :tv: Pode consultar a página de **YouTube** com alguns vídeos tutoriais, nomeadamente sobre como utilizar os repositórios do *GitHub* com o software acima referido: [Canal de YouTube de ATAD](https://www.youtube.com/channel/UCm7ymdQlDgonaj7dVw0tfSw)
 

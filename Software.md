@@ -187,15 +187,15 @@ $> docker pull brunomnsilva/docker-atad:latest
    
    * Se estiver a utilizar WSL, instale:
 
-     > Name: **WSL**
-     > ID: ms-vscode-remote.remote-wsl
-     > Publisher: Microsoft
+     > Name: **WSL**  
+     > ID: ms-vscode-remote.remote-wsl  
+     > Publisher: Microsoft  
 
    * Se estiver a utilizar *Docker*, instale:
 
-     > Name: **Dev Containers**
-     > ID: ms-vscode-remote.remote-containers
-     > Publisher: Microsoft
+     > Name: **Dev Containers**  
+     > ID: ms-vscode-remote.remote-containers  
+     > Publisher: Microsoft  
 
 > [!NOTE]
 > As restantes extensões serão instaladas "dentro" do ambiente de desenvolvimento escolhido, descritas em [Environment](Environment.md)

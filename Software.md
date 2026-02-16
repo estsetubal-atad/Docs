@@ -237,7 +237,7 @@ Ajuste o valor máximo de memória de acordo com os recursos da sua máquina.
 
 ### Nenhum dos métodos funciona?
 
-Consulte [Software Alternative](SoftwareAlternative.md) para métodos alternativos (suporte reduzido).
+Consulte [Software Alternative](SoftwareAlternatives.md) para métodos alternativos (suporte reduzido).
 
 ---
 

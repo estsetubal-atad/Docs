@@ -1,32 +1,25 @@
-# ATAD | Docs
+# ATAD | Documentação
 
-> **Note**
->
-> The tutorials often include ***hyperlinks***. These **only work if you download** the PDF, not in *preview* mode.
->
-> :exclamation: Consequently, it is advised to download this repository onto your filesystem with `Code > Download ZIP`, extract and check the documentation from there.
->
+Este repositório contém documentação (tutoriais e descrição de utilização) das ferramentas da unidade curricular.
 
-This repository contains documentation (tutorials and description of use) for the course tools.
+* [Software](Software.md) -- Instalação do ambiente de programação.
 
-- [Software.pdf](Software.pdf) -- Installing programming environment.
+  * [Software Alternatives](SoftwareAlternatives.md) -- Obtenção do ambiente de programação por métodos alternativos.
 
-  - [SoftwareAlternative.pdf](SoftwareAlternative.pdf) -- Obtaining the programming environment through alternative methods.
+* [Development Environment](Environment.md) -- Familiarização com clonagem de repositórios, programação, compilação e execução de programas.
 
-- [Development Environment](Environment.pdf) -- Knowing your way around cloning repos, coding, compiling and executing programs.
+  * :tv: Pode consultar a página de **YouTube** com alguns vídeos tutoriais, nomeadamente sobre como utilizar os repositórios do *GitHub* com o software acima referido: [Canal de YouTube de ATAD](https://www.youtube.com/channel/UCm7ymdQlDgonaj7dVw0tfSw)
 
-  - :tv: You can check the **YouTube** page with some tutorial videos, namely how to use the *GitHub* repositories with the above software: [ATAD's YouTube Channel](https://www.youtube.com/channel/UCm7ymdQlDgonaj7dVw0tfSw)
-  
-- [Debug.pdf](Debug.pdf) -- Performing *debugging* of programs.
+* [Debug](Debug.md) -- Realização de *debugging* de programas.
 
-- [Makefiles](Makefiles.pdf) -- Understanding *makefiles*.
+* [Makefiles](Makefiles.md) -- Compreensão de *makefiles*.
 
-- [Doxygen.pdf](Doxygen.pdf) -- Documenting your code with *doxygen*.
+* [Doxygen](Doxygen.md) -- Documentação do código com *doxygen*.
 
-- [Valgrind.pdf](Valgrind.pdf) -- Using *valgrind* and how to deal with common reported errors.
+* [Valgrind](Valgrind.md) -- Utilização do *valgrind* e tratamento de erros comuns reportados.
 
-- [Git.pdf](Git.pdf) -- Using *GitHub* through the *command line*.
+* [Git](Git.md) -- Utilização do *Git* através da *linha de comandos*.
 
 ---
 
-Whenever possible, use the *C program template* project (available [here](https://github.com/estsetubal-atad/CProgram_Template)) for your programs. Class assignment repositories are already created from this source.
+Sempre que possível, utilize o projeto *C program template* (disponível [aqui](https://github.com/estsetubal-atad/CProgram_Template)) nos seus programas. Os repositórios dos trabalhos práticos já são criados com base neste modelo.

@@ -72,14 +72,14 @@ Em qualquer dos casos, deverá ter instalado a aplicação `git`, conforme descr
 Instale as seguintes extensões a partir do VS Code Marketplace (utilize o **ID** da extensão para a procurar):
 
 * Name: **C/C++**
-  ID: ms-vscode.cpptools
-  Description: C/C++ IntelliSense, debugging, and code browsing.
-  Publisher: Microsoft
+  ID: ms-vscode.cpptools  
+  Description: C/C++ IntelliSense, debugging, and code browsing.  
+  Publisher: Microsoft  
 
 * Name: **Doxygen Documentation Generator**
-  ID: cschlosser.doxdocgen
-  Description: Let me generate Doxygen documentation from your source code for you.
-  Publisher: Christoph Schlosser
+  ID: cschlosser.doxdocgen  
+  Description: Let me generate Doxygen documentation from your source code for you.  
+  Publisher: Christoph Schlosser  
 
 > [!TIP]
 > Este procedimento instala as extensões no contexto do seu ambiente WSL ou *docker*. Não será necessário repetir este passo posteriormente. As extensões serão atualizadas automaticamente quando necessário.

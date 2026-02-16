@@ -65,7 +65,7 @@ Execute os seguintes passos, onde `<DRIVE>` corresponde à unidade de instalaç�
 
    Procure o ficheiro *zip* mais recente **Win32 - without LLVM/Clang/LLD/LLDB**, por exemplo:
 
-   ![](mingw32-zip.png)
+   ![](assets/mingw32-zip.png)
 
    Guarde-o no seu computador.
 

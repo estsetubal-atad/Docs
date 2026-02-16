@@ -42,9 +42,9 @@ No entanto, **esta será a opção utilizada nos computadores da escola para rea
 
 Para utilizar corretamente o MinGW, deverá instalar a extensão do VS Code [MinGW C Configuration](https://marketplace.visualstudio.com/items?itemName=brunomnsilva.mingw-c-configuration):
 
-> Name: **MinGW C Configuration**
-> ID: brunomnsilva.mingw-c-configuration
-> Publisher: Bruno Silva
+> Name: **MinGW C Configuration**  
+> ID: brunomnsilva.mingw-c-configuration  
+> Publisher: Bruno Silva  
 
 
 Em cada projeto aberto, execute o comando disponibilizado pela extensão para configurar o projeto no VS Code. **Siga as instruções na página da extensão**.
